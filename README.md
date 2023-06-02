@@ -1,2 +1,2 @@
 # Vacation-Auto-Responder-Application
-This application is designed to automate the process of managing emails during your vacation by checking for new emails, sending auto-replies, and organizing them with labels. Let's dive into the code and understand its functionalities.
+The Vacation Auto Responder application automates the process of managing emails during your vacation. It checks for new emails, sends auto-replies to emails without prior replies, adds labels to the replied emails, and repeats the tasks at random intervals. By using the Gmail API and incorporating smart logic, this application ensures that no double replies are sent to any email. Enjoy your vacation while the application takes care of your inbox!
